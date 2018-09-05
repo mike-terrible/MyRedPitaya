@@ -7,4 +7,5 @@
 
 HelloWorldUbuntu - простейший загружаемый модуль ядра для Ubuntu/Linux Mint
 HelloWorldRedPitaya - простейший загружаемый модуль ядра для Ubuntu на RedPitaya
+OurNetConsole - загружаемый модуль ядра с драйвером сетевого устройства и отладочной UDP-консолью для Ubuntu на RedPitaya
 
